@@ -1,0 +1,8 @@
+/* SAP Fiori Icons */
+@font-face {
+  font-family: 'SAP Fiori Icons';
+  src:
+    url('https://<yourserver>/path/to/SAP-icons.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
